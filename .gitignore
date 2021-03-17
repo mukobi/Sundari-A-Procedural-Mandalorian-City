@@ -1,5 +1,10 @@
 intermediate
 backup
 render
-SundariUE4/Content/LargeFiles
 HIP/output
+Blender/FBXCityModels/OBJtoFBX.blend1
+Blender/FBXCityModels/OBJtoFBX.blend
+Blender/FBXCityModels/SM_LargeBoxGlass.fbx
+Blender/FBXCityModels/SM_LargeBoxMetal.fbx
+Blender/FBXCityModels/SM_SideWallMetal.fbx
+SundariUE4/Content/LargeMeshes
