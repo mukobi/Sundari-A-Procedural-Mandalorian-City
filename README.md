@@ -2,7 +2,7 @@
 
 ## Intro
 
-_Please check out https://www.artstation.com/artwork/d8WqRx for a prettier presentation of this project! Also, consider [going here to see a 360 screenshot](https://momento360.com/e/u/7835f08978df41309d2561ae9b7217d0?utm_campaign=embed&utm_source=other&heading=194.74&pitch=-3.58&field-of-view=81&size=medium) of the city!_
+_Please check out https://www.artstation.com/artwork/d8WqRx for a prettier presentation of this project! Also, consider [going here to see a 360 screenshot](https://www.artstation.com/embed/35926379) of the city!_
 
 I procedurally modeled Sundari, the capital city of Mandalore, from "Star Wars: The Clone Wars" in Houdini as an exercise in procedural modeling large sci-fi environments for film/TV/games. Because Houdini's Mantra renderer is so slow, I also turned it into my first real-time cinematic in Unreal Engine. Sundari was a natural choice because it already appears as if large chunks of it were procedurally generated (search the internet for "Mandalore city" to see some image examples) and because I'm a huge Star Wars fan!
 
